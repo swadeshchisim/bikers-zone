@@ -1,3 +1,16 @@
 .bikers-zone{
     background-color: rgba(255, 0, 0, 0.525);
 }
+.footer-menu> ul > li> a{
+    color: #fff;
+    font-size: 16px;
+}
+.copyright-text{
+    margin-top: -50px;
+}
+
+@media only screen and (max-width: 792px) {
+    .copyright-text{
+        margin-top: 30px;
+    }
+}
